@@ -67,4 +67,4 @@ A DFlash-style (block-diffusion) speculative decoding draft model to speed up in
 
 <!-- Optional stats cards — delete if you don't want them -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PriyanSabarish&show_icons=true&hide_border=true) ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanSabarish&layout=compact&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanSabarish&layout=compact&hide_border=true)
