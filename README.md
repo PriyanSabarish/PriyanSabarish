@@ -54,7 +54,7 @@ A DFlash-style (block-diffusion) speculative decoding draft model to speed up in
 
 ## 🏆 Competitions
 
-- **2nd place** — Inter-University Datathon (Sep 2026), Team Epoch Drift. Next-hour PM2.5 forecasting on Beijing multi-site air quality data.
+- **2nd place** — Inter-University Datathon (Sep 2026), Team Epoch Drift. Next-hour PM2.5 forecasting on Beijing multi-site air quality data. https://www.kaggle.com/competitions/inter-uni-datathon-stream-2-beijing-multi-site-air-quality/leaderboard
 - **Shortlisted** — Forward: AI in Business Hackathon (Sep 2026), Pay Code Auditor.
 
 ---
