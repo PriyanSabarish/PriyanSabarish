@@ -2,10 +2,10 @@
 
 Master of Artificial Intelligence student at **Monash University** (Melbourne). I build AI systems end to end — model layer, backend APIs, evals and observability — mostly to learn how things work in production.
 
- -🎓 Master of AI, Monash University (2025–2026)
- -💼 Mobile App Developer Intern, Chemins Pvt Ltd, Puducherry (2023)
- -🔭 Currently building an on-call incident triage agent
- -📫 Reach me: [LinkedIn](https://www.linkedin.com/in/priyansabarish) · priyansabarish@gmail.com
+- 🎓 Master of AI, Monash University (2025–2026)
+- 💼 Mobile App Developer Intern, Chemins Pvt Ltd, Puducherry (2023)
+- 🔭 Currently building an on-call incident triage agent
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/priyansabarish) · priyansabarish@gmail.com
 
 ---
 
@@ -66,5 +66,4 @@ A DFlash-style (block-diffusion) speculative decoding draft model to speed up in
 ---
 
 <!-- Optional stats cards — delete if you don't want them -->
-
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanSabarish&layout=compact&hide_border=true)
