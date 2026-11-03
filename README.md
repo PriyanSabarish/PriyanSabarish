@@ -11,7 +11,7 @@ Master of Artificial Intelligence student at **Monash University** (Melbourne). 
 
 ## 🛠 Projects
 
-### [Incident Triage Agent](https://github.com/PriyanSabarish/REPO-NAME) — _in progress_
+### [Incident Triage Agent](https://github.com/PriyanSabarish/incident-triage-agent) — _in progress_
 
 An on-call assistant that retrieves runbooks and queries metrics and logs to triage incidents. It recommends remediation but never executes it.
 
@@ -19,7 +19,7 @@ An on-call assistant that retrieves runbooks and queries metrics and logs to tri
 - Synthetic incident corpus (40 incidents, 15 runbooks) with labels for evaluation
 - Evals and OpenTelemetry tracing, MCP tools
 
-### [Pay Code Auditor](https://github.com/PriyanSabarish/REPO-NAME)
+### [Pay Code Auditor]([https://github.com/PriyanSabarish/REPO-NAME](https://github.com/PriyanSabarish/pay-code-auditor))
 
 An AI agent that helps businesses comply with Australia's new Payday Super rules, where super must be paid with wages every pay cycle. Built at the Forward: AI in Business Hackathon (Sep 2026) — shortlisted in our track.
 
@@ -37,7 +37,7 @@ An AI agent that helps businesses comply with Australia's new Payday Super rules
 - Guardrails that keep the LLM away from the numbers — cost calculations stay in deterministic code
 - Evaluation harness that runs the same audit in five modes, from keyword-only to the full agent
 
-### [Quietway — Sensory-Aware Wayfinding](https://github.com/PriyanSabarish/REPO-NAME)
+### [Quietway — Sensory-Aware Wayfinding](https://github.com/PriyanSabarish/quietway)
 
 Web app that routes people through Melbourne CBD along less-crowded paths, using City of Melbourne pedestrian count data.
 
